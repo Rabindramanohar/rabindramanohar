@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![LPgCsH2](https://user-images.githubusercontent.com/16033280/142181300-4ba03420-75f0-47b4-ac0c-e6770342dd5d.jpeg)
+<!-- ![LPgCsH2](https://user-images.githubusercontent.com/16033280/142181300-4ba03420-75f0-47b4-ac0c-e6770342dd5d.jpeg) -->
 
 Hi 👋 My name is Rabindra Mahato
 ================================
