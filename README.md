@@ -23,11 +23,11 @@ Web Developer
 Frontend developer with demonstrated skills in building web development using JavaScript along with ReactJs. Skills : JavaScript, Core Java, TypeScript, ReactJs, MongoDB, NodeJs ,ExpressJS, styled Components , Redux and many more..
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Rabindra](https://www.rabindramanohar.github.io/portfolio/#/)
+* 🖥️  See my portfolio at [Rabindra](https://www.rabindramanohar.github.io/portfolio/)
 * ✉️  You can contact me at [rabindramohar@gmail.com](mailto:rabindramohar@gmail.com)
 * 🚀  I'm currently working on [Global Edge Software](http://www.globaledgesoft.com/)
-* 🧠  I'm learning Node with Express js
-* 🤝  I'm open to collaborating on interesting projects
+* 🧠  I'm learning Node with Express js
+* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
