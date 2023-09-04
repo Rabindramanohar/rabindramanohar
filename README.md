@@ -20,13 +20,13 @@ Hi 👋 My name is Rabindra Mahato
 Web Developer
 -------------
 
-Frontend developer with demonstrated skills in building web development using JavaScript along with ReactJs. Skills : JavaScript, Core Java, TypeScript, ReactJs, MongoDB, NodeJs ,ExpressJS, styled Components , Redux and many more..
+Frontend developer with demonstrated web development skills using JavaScript and ReactJs. Skills : JavaScript, Core Java, TypeScript, ReactJs, MongoDB, NodeJs, ExpressJS, styled Components, Redux, and many more...
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Rabindra](https://www.rabindramanohar.github.io/portfolio/)
 * ✉️  You can contact me at [rabindramohar@gmail.com](mailto:rabindramohar@gmail.com)
 * 🚀  I'm currently working on [Global Edge Software](http://www.globaledgesoft.com/)
-* 🧠  I'm learning Node with Express js
+* 🧠  I'm learning the MERN stack
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
@@ -38,7 +38,6 @@ Frontend developer with demonstrated skills in building web development using Ja
 
 <p align="left">
 <a href="https://www.codesandbox.com/u/Rabindramanohar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/Rabindramanohar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="http://www.hashnode.com/@Rabindra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/rabindra-mahato-9a59307b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/7452866/rabindra-kumar-mahato" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
