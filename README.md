@@ -26,7 +26,7 @@ Frontend developer with demonstrated web development skills using JavaScript and
 * 🖥️  See my portfolio at [Rabindra](https://www.rabindramanohar.github.io/portfolio/)
 * ✉️  You can contact me at [rabindramohar@gmail.com](mailto:rabindramohar@gmail.com)
 * 🚀  I'm currently working on [Global Edge Software](http://www.globaledgesoft.com/)
-* 🧠  I'm learning the MERN stack
+* 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
